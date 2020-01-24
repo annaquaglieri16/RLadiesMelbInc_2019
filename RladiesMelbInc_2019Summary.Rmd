@@ -39,7 +39,7 @@ As briefly mentioned [before](https://r-ladiesmelbourne-team.netlify.com), we st
 In addition to this official roles, each of us, as always, has had internal roles, for example for social media, catering, flyer, etc.
 
 # Organisers of R-Ladies Melb Inc
-
+SEPIDE TO ADD THE ORGANISERS' PHOTO when they provide it.
 Sepideh Foroutan 
 Marie Trussart
 Adele Barugahare
@@ -52,6 +52,7 @@ Nikki Rubinstein
 Miriam Yeung
 Shanmathi Ramasubbu
 
+We also had occasional help from Koo (last name?).
 ```{r}
 # photo of organisers
 ```
@@ -61,30 +62,51 @@ In 2019-2020 we were able to organise X events covering x workshops, x seminars 
 **Question: As it is going to be also the repot for the incorporation, should we only cover March 2019 to March 2020?**
 
 # Encouraging high school girls
-“It takes a spark” conference
-Encouraging high school girls to develop interest in STEAM (Science, Technology, Engineering, Arts, Math)
-```{r fig.cap="Fig1. ", echo = FALSE,fig.asp=0.60}
+The R-Ladies Meln Inc was lucky to be able to attend “It takes a spark” conference, where we tought and encouraged high school girls to develop interest in STEAM (Science, Technology, Engineering, Arts, Math) by showing them how to explore an epidemic disease in R.
 
+**Question: which photo is better?**
+```{r, echo=FALSE, fig.cap=" preparation for it takes a spark conference",echo=FALSE, fig.align="center", out.width = '65%'}
+knitr::include_graphics("./photos/spark1.jpg")
 ```
 
 
 # MoRe advanced R:
-Although we organised a workshop to teach the fundamentals of R (by Goknur Giner and Nikki Rubinstein) and a lunch Zoom event on basic data visualisation in R (by XX), this year we focused more on the advanced topics; this was because most members were interested in advanced R events based on the 2019 start-of-the-year survey. Examples of these events are:
-•	RMarkdown and publication-ready documents by Anna Q and Soroor in Feb
-•	Overview of Reproducible research, documentation, and cloud computing by Lavinia Gordon in March
-•	Natural language processing from Ana Mamatelashvili in June
-•	Package review system and rOpenSci from Melina Vidoni in July
-•	Reproducibility using Containers in R by Saras Windecker in Sep
+Although we organised a workshop to teach the fundamentals of R (by **Goknur Giner** and **Nikki Rubinstein**) and a lunch Zoom event on basic data visualisation in R (by **Tobey Zhang**), this year we focused more on the advanced topics; this was because the majority of our members were interested in advanced R topics, according to our 2019 start-of-the-year survey. Examples of these events are:\n
+
+* RMarkdown and publication-ready documents by **Anna Quglieri** and **Soroor Hediyeh Zadeh** in Feb
+*	Overview of Reproducible research, documentation, and cloud computing by **Lavinia Gordon** in May
+*	Natural language processing from **Ana Mamatelashvili** in June
+*	Package review system and rOpenSci from **Melina Vidoni** in July
+*	Reproducibility using Containers in R by **Saras Windecker** in Sep
 
 
-# Straight from RStudio:
-Alison Hill 
-Hadley Wickham
+# Speakers straight from the RStudio:
+This year, we have been extremely luckly to have two speakers from the RStudio. In Sep 2019, **Alison Hill** showed us how to take a bad plot and make it better! 
+```{r, echo=FALSE, fig.cap="The R-Ladies Melb Inc event with Alison Hill",echo=FALSE, fig.align="center", out.width = '65%'}
+knitr::include_graphics("./photos/Alison2.jpg")
+```
+
+**Di Cook** has been supported us all along the way. Mid 2019 she let us know that Hadley will be in Melb and we invited him straight away! Hadley's talk focused on designing data science. 
+```{r, echo=FALSE, fig.cap="The R-Ladies Melb Inc event with Hadley Wickham",echo=FALSE, fig.align="center", out.width = '65%'}
+knitr::include_graphics("./photos/hadley_group.jpg")
+```
+
+
+It was not surprising that for this event we had 130 attendees and many people in the waiting list. That is why we live-streamed the event so that other people could attend too. It was exciting to see on twitter that we had even audience from far distances, such as Brazil (SEPIDEH TO ADD A PHOTO FOR THIS)
+
 
 # Education award from WEHI
+```{r, echo=FALSE, fig.cap="Receiving the Education award from WEHI",echo=FALSE, fig.align="center", out.width = '65%'}
+knitr::include_graphics("./photos/award1.jpg")
+knitr::include_graphics("./photos/award2.jpg")
+```
+
 
 
 # Sponsors:
+```{r, echo=FALSE, fig.cap="Amazing view from the venue provided by our amazing sponsor, NOUS",echo=FALSE, fig.align="center", out.width = '65%'}
+knitr::include_graphics("./photos/NOUS.jpg")
+```
 CSL
 NOUS
 Zendek
