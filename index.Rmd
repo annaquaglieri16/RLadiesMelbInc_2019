@@ -30,29 +30,30 @@ library(icon)
 As we mentioned [before](https://rladiesmelb2018.netlify.com), the R-Ladies Melb chapter was founded as the first R-Ladies chapter in Australia in Sep 2016. We are glad that today, there are five more chapters in Australia, including: \n
 
 * [R-Ladies Sydney](https://www.meetup.com/en-AU/rladies-sydney/)
-* [Brisbane](https://www.meetup.com/en-AU/rladies-brisbane/)
-* [Canberra](https://www.meetup.com/en-AU/rladies-canberra/) 
-* [Adelaide](https://www.meetup.com/en-AU/rladies-adelaide/) 
-* [Perth](https://www.meetup.com/en-AU/rladies-perth/). 
+* [R-Ladies Brisbane](https://www.meetup.com/en-AU/rladies-brisbane/)
+* [R-Ladies Canberra](https://www.meetup.com/en-AU/rladies-canberra/) 
+* [R-Ladies Adelaide](https://www.meetup.com/en-AU/rladies-adelaide/) 
+* [R-Ladies Perth](https://www.meetup.com/en-AU/rladies-perth/). 
 
 The R-Ladies Melb has always had a main organiser for every year. Although we were not much formally shaped in 2017, [Goknur Giner](https://twitter.com/goknurginer) did a great job for organising most of the things, so she was our informal main organiser at the time. In 2018, [Anna Quaglieri](https://twitter.com/annaquagli) was selected more formally by all of us agreeing in our committee meeting for her to be the main organiser. Finally in Feb 2019, it was my turn to do it by everyone's agreement. Over the last three years we have had growing number of members in our local community, and today we are glad to have close to 1400 members; this shows the existing need for an inclusive group for women and people of minority genders in the R community. 
 
 # We are now a registered not-for-profit!
-As briefly mentioned [before](https://r-ladiesmelbourne-team.netlify.com), we started to learn about how to become an incoporated association over the last few months of 2018. Several members of the team sratrted reading about this and collecting information, specifically Anna Quaglieri, [Lucy Liu](https://twitter.com/lucyleeow) and [myself](https://twitter.com/S_Foroutan). Finally, in a lovely afternnon on the 29th of March, Lucy and I registered the **R-Ladies Melb Inc** through [myCAV for incorporated association](https://www.consumer.vic.gov.au/clubs-and-fundraising/incorporated-associations/mycav-for-incorporated-associations). This required us to define official roles, specifically for President, vice-presidet, treasurer and secretory. Then, we started learning how to open a bank account for incorporation and how to spend expenses and keep track of them more formally. A lot of these were done by [Adele Barugahare](https://twitter.com/technadele) who became our Treasurer and [Marie Trussart](https://twitter.com/MTrussart), who was selected for being Vice-president in mid 2019 after our initial Vice-president, [Nikki Rubinstein](https://twitter.com/nikkirubinstein), stepped down from that role due to other committment. [Goknur Giner](https://twitter.com/goknurginer) agreed to become the Secretory after our intial secretory, Lucy, left Australia in *April (?)* 2019; and I took the role of President.
+As briefly mentioned [before](https://r-ladiesmelbourne-team.netlify.com), we started to learn about how to become an incoporated association over the last few months of 2018. Several members of the team started reading about this and collecting information, specifically Anna Quaglieri, [Lucy Liu](https://twitter.com/lucyleeow) and [myself](https://twitter.com/S_Foroutan). Finally, in a lovely afternnon on the 29th of March, Lucy and I registered the **R-Ladies Melb Inc** through [myCAV for incorporated association](https://www.consumer.vic.gov.au/clubs-and-fundraising/incorporated-associations/mycav-for-incorporated-associations). This required us to define official roles, specifically for President, vice-presidet, treasurer and secretory. Then, we started learning how to open a bank account for incorporation and how to spend expenses and keep track of them more formally. A lot of these were done by [Adele Barugahare](https://twitter.com/technadele) who became our Treasurer and [Marie Trussart](https://twitter.com/MTrussart), who was selected for being Vice-president in mid 2019 after our initial Vice-president, [Nikki Rubinstein](https://twitter.com/nikkirubinstein), stepped down from that role due to other committment. [Goknur Giner](https://twitter.com/goknurginer) agreed to become the Secretory after our intial secretory, Lucy, left Australia in *April (?)* 2019; and I took the role of President.
 ```{r, echo=FALSE, fig.cap="Certificate of Incorporation",echo=FALSE, fig.align="center", out.width = '80%'}
 img <- readPNG("./photos/certificate_Inc.png")
 grid.raster(img)
 ```
 # Organisers of R-Ladies Melb Inc
-In our first event in March 2019, 
-In addition to having formal roles defined by the incorporation (president, vice-president, secretory and treasurer), we also have our own internal roles. For each role, we have a main person responsible for that role as well as a secondary person that covers that responsibility in the absence of the main person. For example, Nikki was responsible for twitter but for several events that she was not around, Shazia was the person doing the live-tweeting. Figure X shows the organising committee and their roles. In addition to all of us listed here, we had help from We also had occasional help from **Stephanie Koo** who kindly helped us for a couple of events but did not have much time to become an offical organiser.
-Not only we follow the rules of incorporation, we also have always had our own rules which all members respect to. One of our internal rules, as we detailed before, is that there is a main organiser for each event, who does not actually do all the things herself, but instead is responsible to follow up with different people responsible to do their tasks (venue booking, advertising, catering, etc). In this way, the responsibilities are split between all members across a year. We also defined new rules this year in terms of our presence/absence in the monthly organising committee meetinsg as well as in our monthly events. Based on this rule, if an organiser is absent in 3 consequitive meetings/events, she needs to be contacted by the President and checked if she is still inetersted to get involved.
+In our first event in March 2019,??
+If you would like to get involved, here you can find a brief division of labor within organising committee.
+In addition to having formal roles defined by the incorporation (president, vice-president, secretory and treasurer), we also have our own internal roles. For each role, we have a main person responsible for that role as well as a secondary person that covers that responsibility in the absence of the main person. For example, Nikki was responsible for twitter but for several events that she was not around, Shazia was the person doing the live-tweeting. Figure X shows the organising committee and their roles. In addition to all of us listed here, we had help from ?? We also had occasional help from **Stephanie Koo** who kindly helped us for a couple of events but did not have much time to become an offical organiser.
+Not only we follow the rules of incorporation, we also have always had our own rules which all members respect to. One of our internal rules, as we detailed before, is that there is a main organiser for each event, who does not actually do all the things herself, but instead is responsible to follow up with different people responsible to do their tasks (venue booking, advertising, catering, etc). In this way, the responsibilities are split between all members across the year. We also defined new rules this year in terms of our presence/absence in the monthly organising committee meetinsg as well as in our monthly events. Based on this rule, if an organiser is absent in 3 consequitive meetings/events, she needs to be contacted by the President and checked if she is still inetersted to get involved.
 ```{r, echo=FALSE, fig.cap="R-Ladies Melb Inc Committee Members and Organisers",echo=FALSE, fig.align="center", out.width = '95%'}
 img <- readPNG("./photos/Committee_2019.png")
 grid.raster(img)
 ```
-In 2019-2020 we were able to *organise X events covering x workshops, x seminars and x networking*. We have had some amazing experience, such as teaching R practically to high school girls, hosting speakers from the editorial borad of rOpensSci and from RStudio, as well as winning the eduation award from the Walter and Eliza Hall Institute of Medical Research. I explain more about different events we have had in the past year and highlight some of our amazing experience with the R-Ladies speakers and members.
-# Encouraging high school girls
+In 2019-2020 we were able to *organise X events covering x workshops, x seminars and x networking*. We have had some amazing experience, such as teaching R practically to high school girls, hosting speakers from the editorial borad of rOpensSci and from RStudio, as well as receiving the Kelleway Excellence for Eduation Award from the Walter and Eliza Hall Institute of Medical Research. Now, I explain more about different events we have had in the past year and highlight some of our amazing experience with the R-Ladies speakers and members.
+# Encouraging high school girls (note from GG - this event is one of the important contributions to the community. It can be be good if you add some of your personal experiences and opinions on the potential impact on girls.)
 The R-Ladies Meln Inc was lucky to present at the **“It takes a spark”** conference in Sep 2019, where we tought and encouraged high school girls to develop interest in STEAM (Science, Technology, Engineering, Arts, Math) by showing them how to explore an epidemic disease in R. We were all impressed by how quickly they got the points and solved the challenges! This event was prepared by Marie and Shazia, and was helped by Sehrish, Shanmathi and myself.
 ```{r, echo=FALSE, fig.cap=" It Takes a Spark conference for girls in STEAM",echo=FALSE, fig.align="center", out.width = '95%'}
 img <- readPNG("./photos/ItTakesaSpark.png")
@@ -85,14 +86,18 @@ img <- readPNG("./photos/hadley_tweets.png")
 grid.raster(img)
 ```
 # Co-founder of R-Ladies Melb in the R-Ladies Melb anniversary
-The R-Ladies Melb Inc was excited to have Goknur Giner, one of its co-founders, talking about RShiny in the third year anniversary event. Just to add a personal view on this, I started making RShiny apps after her super-clear talk on that day. We had an R-Ladies-themed cake with all the amazing members attended on the day and enjoed a fantastic view from the NOUS venue. This event was specifcially special, at least for the R-Ladies Melb orgnisers, as it was an emotional meeting, where Goknur shared with us how she has been feeling about being a member of this family and how she was supported by the the team members when she needed. 
+The R-Ladies Melb Inc was excited to have Goknur Giner, co-founder of R-Ladies Melbourne, presenting about basics of RShiny during our third year anniversary event. Just to add a personal view on this, I started making RShiny apps after her super-clear talk on that day. We had an R-Ladies-themed cake with all the amazing members attended on the day and enjoyed a fantastic view from the NOUS venue. Morever, as I shared the great joy of founding this group with her, the moments Goknur talked about her journey with R-Ladies Melbourne were particularly sentimental to me. Her appreciation for the support she received from us as a community after she became a mother indicated that there are many other aspects of how R-Ladies Melbourne can assist individuals. Her daughter Maya Su is 2,5 years old now and she has already been to two useR! conferences. As Goknur mentioned in her talk, thanks to the R-Ladies community all around the world for creating opportunities for women.   
 ```{r, echo=FALSE, fig.cap="The R-Ladies Melb third year annivesary with Goknur Giner",echo=FALSE, fig.align="center", out.width = '95%'}
 img <- readPNG("./photos/Goknur.png")
 grid.raster(img)
 ```
 # Other contributions
 In May 2019, Marie Trussart participated in an **Accelerated Leadership Program** (WLALPP MEL183) and made a [survey](https://docs.google.com/forms/d/e/1FAIpQLSeic80fjK4ZglkP5jN29YPExkjHCxSkTNgsg3JMNxInB8QfSg/viewform) to investigate the gender gap in STEM. It was great to have several male and female from the R-Ladies community filled out that survey.
-Although useR 2018 was in Brisbane and most of our organisers could attend and present at it, the **useR 2019** was in July 2019 in *Italy (?)* and therefore harder for the organisers to attend that. However, it was fantastic to see that a past (Roxane) and a present (Goknur) R-Ladies Melb organisers could still meet up at the useR 2019. 
+Although useR 2018 was in Brisbane and most of our organisers could attend and present at it, the **useR 2019** was in July 2019 in *[Tolouse, France] (http://www.user2019.fr/) * and therefore harder for the organisers to attend that. However, it was fantastic to see that a past (Roxane) and a present (Goknur) R-Ladies Melb organisers could still meet up at the [useR! 2019] (https://twitter.com/RLadiesGlobal/status/1148937344214605824/photo/1) - (note from GG - here I added the link for the photo below. If you can compile the photo, then you can remove this link sweetie). 
+```{r, echo=FALSE, fig.cap="The useR! 2019 R-Ladies Global with Goknur and Roxane",echo=FALSE, fig.align="center", out.width = '95%'}
+img <- readPNG("./photos/r-ladiesTolouse.png")
+grid.raster(img)
+```
 For their event organised early in Dec 2019, we are happy that the **[Statsitical Society of Australia](https://twitter.com/StatSocAus)** (SSA) contacted the R-ladies Melb Inc to present and be a part of a panel discussion. Our amazing Anna Quaglierie agreed to give an overview of R-Ladies chapters with a focus on our group at their event. At the same time, many of the organising committee members were attending/presenting their work at the Australian Computational Biology and Bioinformatics Society (**ABACBS**) and **BiocAsia**. 
 ```{r, echo=FALSE, fig.cap="Receiving the Kellaway Excellence Award for Education from WEHI",echo=FALSE, fig.align="center", out.width = '95%'}
 img <- readPNG("./photos/otherContribution.png")
@@ -101,7 +106,7 @@ grid.raster(img)
 # R consortium grant
 SEPIDEH TO UPDATE THIS.
 # Education award from WEHI
-We are so thrilled to be nominated for the Kellaway Excellence Award for Education by **Gordon Smyth** from WEHI and very honored to have received this group award in Dec 2019. This is perhaps the first time that all the efforts of R-Ladies Melb has been officially recognised by an institute and it feels incredibly great to see the support from the Bioinformatics co-division head and the director of WEHI, **Goug Hilton**. 
+We are so thrilled to be nominated for the Kellaway Excellence Award for Education by **Gordon Smyth** from WEHI and very honored to have received this group award in Dec 2019. This is perhaps the first time that all the efforts of R-Ladies Melb has been officially recognised by an institute and it feels incredibly great to see the support from the Bioinformatics co-division head and the director of WEHI, **Doug Hilton**. 
 ```{r, echo=FALSE, fig.cap="Receiving the Kellaway Excellence Award for Education from WEHI",echo=FALSE, fig.align="center", out.width = '95%'}
 img <- readPNG("./photos/award.png")
 grid.raster(img)
@@ -131,5 +136,12 @@ etc
 Also maybe make some comments about this https://qz.com/work/1661486/r-ladies-made-data-science-inclusive/
 
 Who should we ask for testimonial? Hadley? Alison Hill? Saras? Melinda? I am also tempted to ask Lavinia because I am sure she will write great things about us :-) 
+
+# Find us on
+Meetup
+Twitter
+Facebook
+[LinkedIN] (https://www.linkedin.com/company/14675970/admin/)
+
 
 
