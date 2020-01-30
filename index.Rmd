@@ -93,7 +93,7 @@ grid.raster(img)
 ```
 # Other contributions
 In May 2019, Marie Trussart participated in an **Accelerated Leadership Program** (WLALPP MEL183) and made a [survey](https://docs.google.com/forms/d/e/1FAIpQLSeic80fjK4ZglkP5jN29YPExkjHCxSkTNgsg3JMNxInB8QfSg/viewform) to investigate the gender gap in STEM. It was great to have several male and female from the R-Ladies community filled out that survey.
-Although useR 2018 was in Brisbane and most of our organisers could attend and present at it, the **useR 2019** was in July 2019 in *[Tolouse, France] (http://www.user2019.fr/) * and therefore harder for the organisers to attend that. However, it was fantastic to see that a past (Roxane) and a present (Goknur) R-Ladies Melb organisers could still meet up at the [useR! 2019] (https://twitter.com/RLadiesGlobal/status/1148937344214605824/photo/1) - (note from GG - here I added the link for the photo below. If you can compile the photo, then you can remove this link sweetie). 
+Although useR 2018 was in Brisbane and most of our organisers could attend and present at it, the **useR 2019** was in July 2019 in *[Toulouse, France] (http://www.user2019.fr/) * and therefore harder for the organisers to attend that. However, it was fantastic to see that a past (Roxane) and a present (Goknur) R-Ladies Melb organisers could still meet up at the [useR! 2019] (https://twitter.com/RLadiesGlobal/status/1148937344214605824/photo/1) - (note from GG - here I added the link for the photo below. If you can compile the photo, then you can remove this link sweetie). 
 ```{r, echo=FALSE, fig.cap="The useR! 2019 R-Ladies Global with Goknur and Roxane",echo=FALSE, fig.align="center", out.width = '95%'}
 img <- readPNG("./photos/r-ladiesTolouse.png")
 grid.raster(img)
