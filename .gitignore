@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 /Example
+.DS_Store
+.Rproj
+.gitignore
