@@ -1,7 +1,7 @@
 ---
 title: "R-Ladies Melbourne Inc 2019 highlights"
 author: "Momeneh (Sepideh) Foroutan - 2019 President"
-date: "January 2020"
+date: "Feb 2020"
 output:
   html_document:
     theme: cosmo
@@ -33,7 +33,7 @@ As we mentioned [before](https://rladiesmelb2018.netlify.com), the R-Ladies Melb
 * [R-Ladies Brisbane](https://www.meetup.com/en-AU/rladies-brisbane/)
 * [R-Ladies Canberra](https://www.meetup.com/en-AU/rladies-canberra/) 
 * [R-Ladies Adelaide](https://www.meetup.com/en-AU/rladies-adelaide/) 
-* [R-Ladies Perth](https://www.meetup.com/en-AU/rladies-perth/). 
+* [R-Ladies Perth](https://www.meetup.com/en-AU/rladies-perth/)
 
 Over the last three years, the R-Ladies Melb has had growing number of members, and today we are glad to have close to 1400 members in our [local community](https://www.meetup.com/en-AU/rladies-melbourne); this shows the existing need for an inclusive group for women and people of minority genders in the R community. 
 The R-Ladies Melb had an amazing year in 2019; not only we registered the R-Ladies Melb as an incorporation, but also we received the Kellaway Excellence for Education Award from the Walter and Eliza Hall Institute of Medical Research (WEHI), hosted amazing speakers such as Alison and Hadley from RStudio and Melina from the editorial board of rOpensSci, and contributed in teaching to high school girls. Below are the highlights of R-Ladies Melb in 2019!
@@ -53,7 +53,7 @@ grid.raster(img)
 ```
 
 # Directly from the RStudio: Alison and Hadley
-This year, we were lucky to have two speakers from the [RStudio](https://rstudio.com/): **[Alison Hill](https://twitter.com/apreshill?s=20)** in Sep and **[Hadley Wickham](https://twitter.com/hadleywickham)** in Nov 2019. **Alison Hill** showed us how to take a bad plot and make it better! She gave an example of her work on a book and how she could make the same figure better and better every time! All of the attendees of that night also said a 'hi' to Alison's little daughter on the [video](https://twitter.com/apreshill/status/1179714814160957440?s=20) recorded by her! 
+This year, we were lucky to have two speakers from the [RStudio](https://rstudio.com/): **[Alison Hill](https://twitter.com/apreshill?s=20)** in Sep and **[Hadley Wickham](https://twitter.com/hadleywickham)** in Nov 2019. Alison showed us how to take a sad plot and make it better! She gave an example of her work on a book and how she could make the same figure better and better every time! All of the attendees of that night also said a 'hi' to Alison's little daughter on the [video](https://twitter.com/apreshill/status/1179714814160957440?s=20) recorded by her! 
 ```{r, echo=FALSE, fig.cap="The R-Ladies Melb Inc event with Alison Hill",echo=FALSE, fig.align="center", out.width = '90%', fig.asp=0.4}
 img <- readPNG("./photos/Alison.png")
 grid.raster(img)
@@ -73,7 +73,7 @@ grid.raster(img)
 ```
 
 # Encouraging high school girls to code in R
-We were invited to participate in the **“It takes a spark”** conference organized by Spark EDU in Sep 2019. This conference program is intended for both teachers and students to raise awareness and interest of high-school girls and connect with inspiring female role models. We organized a workshop on solving an outbreak using data analysis and programming skills. **Our goal was to empower high school girls and their teachers to learn how to code in R and solve a disease outbreak**. It was a great success as our workshop was booked out and it was a really rewarding experience that we thoroughly enjoyed. Special thanks to the enthusiasm of the students to learn and solve all the exercises. 
+We were invited to participate in the **“[It takes a spark](https://spark-educonferences.com.au/it-takes-a-spark-melbourne-2019/)”** conference organized by Spark EDU in Sep 2019. This conference program is intended for both teachers and students to raise awareness and interest of high-school girls and connect with inspiring female role models. We organized a workshop on solving an outbreak using data analysis and programming skills. **Our goal was to empower high school girls and their teachers to learn how to code in R and solve a disease outbreak**. It was a great success as our workshop was booked out and it was a really rewarding experience that we thoroughly enjoyed. Special thanks to the enthusiasm of the students to learn and solve all the exercises. 
 This workshop was prepared by Marie and Shazia, and was helped by Sehrish, Shanmathi and myself. We hope this workshop inspired many girls and contributed to overcome the bias in the low rate of female participation in science, technology, engineering, art and mathematics (STEAM) education and STEAM careers.
 
 ```{r, echo=FALSE, fig.cap=" It Takes a Spark conference for girls in STEAM",echo=FALSE, fig.align="center", out.width = '90%'}
@@ -112,7 +112,8 @@ grid.raster(img)
 
 # Other contributions
 ## Accelerated leadership program
-In May 2019, Marie Trussart participated in an **Accelerated Leadership Program** (WLALPP MEL183) and made a [survey](https://docs.google.com/forms/d/e/1FAIpQLSeic80fjK4ZglkP5jN29YPExkjHCxSkTNgsg3JMNxInB8QfSg/viewform) to investigate the gender gap in STEM. It was great to have several male and female from the R-Ladies community filled out that survey.
+While offering technical skills workshops with R-ladies is important, Marie also felt that there is a need to help women identify the individual factors that contribute to their participation, achievements and career progression. As such, she became involved in the Accelerated Leadership Program organised by Women & Leadership Australia in May 2019. In this program she conducted a [survey](https://docs.google.com/forms/d/e/1FAIpQLSeic80fjK4ZglkP5jN29YPExkjHCxSkTNgsg3JMNxInB8QfSg/viewform) that assessed self-professional worth and examined how to promote gender equality by identifying other individual factors that could contribute to women’s participation, achievement and progression. 
+Based on the results of this survey and information from the literature, she started to organise coaching sessions with [Kintsugi Coaching](http://kintsugicoach.org/) aimed at helping more women to identify the factors and limitations of their career progression and to empower them to achieve their professional goals. As a certified Organisational Coach from the IECL, she wants to make a difference for women in science which is to empower them by providing developmental opportunities for successful leadership among STEM professions and strategies to grow and thrive.
 
 ## useR! 2019
 Although useR! 2018 conference was in Brisbane and most of our organisers could attend and present at it, the **[useR! 2019](http://www.user2019.fr/)** in July 2019 was held in Toulouse, France and therefore harder for the organisers to attend that. However, it was fantastic to see that a past (Roxane) and a present (Goknur) R-Ladies Melb organisers could still meet up at the useR! 2019.
@@ -123,7 +124,7 @@ grid.raster(img)
 ```
 
 ## Winter school in mathematical and computational biology
-[Winter School in Mathematical and Computational Biology](http://bioinformatics.org.au/winterschool/speakers/) is a yearly event organised by the University of Queensland and is designed to show university students and postdocs how to use bioinformatics and computational methods to solve biological questions. In Jul 2019, I was invited to talk about how to generate dynamic reports in RStudio and also introduce R-Ladies and its mission. This followed by a panel discussion in the last day, and I experienced being on a panel discussion for the first time!
+[Winter School in Mathematical and Computational Biology](http://bioinformatics.org.au/winterschool/speakers/) is a yearly event organised by the University of Queensland and is designed to show university students and postdocs how to use bioinformatics and computational methods to solve biological questions. In Jul 2019, I was invited to talk about how to generate dynamic reports in RStudio and also introduce R-Ladies and its mission. This winter school also included a panel discussion on the last day, and I experienced being on a panelist for the first time!
 
 ## We all count: strengthening stats and maths through diversity
 In December 2019 the the [Statistical Society of Australia](https://statsoc.org.au/) invited the R-Ladies Melbourne to be part of an awesome panel of women to dicuss how we can [improve the Math and Stats workforce in Australia](https://statsoc.org.au/event-3625235) by increasing diversity. The discussion of this particular session was aimed at increasing women participation, and Anna Quaglieri represented us by giving a [short talk](https://vimeo.com/379180917) about the history of the R-ladies and by showcasing the 2019 highlights of the R-Ladies Melbourne! The short talks were followed by an insighful [panel discussion](https://vimeo.com/379180901) around ways to incraese women representation in both academia and industry and what are the main obtacles to reach geneder balance.   
@@ -173,15 +174,15 @@ grid.raster(img)
 ```
 
 # Testimonial
-We are very grateful to **Lavinia Gordon** and **Di Cook** for their lovely testimonial about the R-Ladies Melb Inc. As mentioned above, Lavinia presented at one our events in 2019, and Di Cook, not only presented as our very first speaker in 2016, but also she has been always there for us and supported our mission.
+We are very grateful to **Lavinia Gordon** and **Alison Hill**, two of our speakers in 2019, for their lovely testimonials. This has been our great pleasure to have hosted them, and their positive comments about our chapter is a strong motivation for us!
 
 > _"It was a delight and an honour to have an opportunity to present at an R-Ladies Melb event. R-Ladies Melb work hard to foster a welcoming community that encourages learning via social and collaborative sharing. Their focus is on supporting and promoting underrepresented genders, but they are inclusive in their participation. They are a positive force for good, and I hope that 2020 brings them bigger and better things."_
 >
 > `r tufte::quote_footer('--- Lavinia Gordon')`
 
-> Text from Di Cook.
+> _"Giving a talk for RLadies Melbourne is one of the standout moments for me in my career at RStudio so far. Having been an RLadies organizer, I know that it takes more than good speakers and an engaged user base to run a successful chapter. It takes time and energy to be sure, but most importantly, it takes consistently delivering high-quality events so that you build trust within your community. RLadies Melbourne is a great model for how to run an RLadies chapter that fully supports the global mission of encouraging, inspiring, and empowering people of genders currently underrepresented in the R community."_
 >
-> `r tufte::quote_footer('--- Di Cook')`
+> `r tufte::quote_footer('--- Alison Hill')`
 
 # Find us 
 Finally, do not forget to follow the R-Ladies Melb Inc if you would like to be updated about us and our events; we do our best to record our events, and make all of our events' materials available on Github.
@@ -194,4 +195,4 @@ Finally, do not forget to follow the R-Ladies Melb Inc if you would like to be u
 * `r icon::fa("youtube",colour = "#88398A")` [YouTube](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow/videos)
 
 # Aknowledgements
-I would like to thank Marie, Goknur, Anna, and Sehrish for their valuable feedback about this document. I would also like to thank Anna for her great reports last year that I looked up to in order to produce this document.
+I would like to thank Marie, Goknur, Anna, and Sehrish for their valuable feedback about this document. Also, thanks to Anna's great reports last year, which was helpful to produce this document. Finally, I would like to thank [Ramyar Molania](https://twitter.com/RamyarMolania) for his ongoing support.
